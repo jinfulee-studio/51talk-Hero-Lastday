@@ -9,6 +9,12 @@
 - 钉盘等给人看的留痕也是副本。索引与文档只引用仓库路径。
 - 展开与依据：xinfu `contexts/single-source-principle.md`「Claude 项目只是缓存」；转介绍总索引：51Talk-Referral `docs/knowledge-index.md`。
 
-## 和 Felix 的交互规矩（2026-10-15 Felix 亲订）
+## 本仓库不是 AI 编排项目（Felix 2026-11-08 亲订）
 
-主对话是他唯一入口（要他看或拍板的写成结论、每个选项一行、推荐项、样张或链接，由协调者贴到主对话）、公司电脑零物理互动、设备会话权限永久放行、说版本名必附具体样子、智能处理类任务保持用 LLM。真本在 xinfu `memory/main-chat-only-zero-touch.md`，51Talk 的执行落点在 51talk-knowledge `referral/decisions.md`「八、和 Felix 的工作方式」。这里只放指针，不复述。
+本仓库是业务项目，不是 AI 编排项目，也不是 AI 组织框架项目，只放本项目自己的内容（业务口径、数据、产物、代码与它的运维）。
+
+- **禁止写入 AI 编排内容**：怎么派活与分工、模型与思考深度、协调者和讨论串的工作方式、放行与授权、设备会话、评审流程（Plan-Gate、心评审、六维评审等）、和 Felix 的交互规矩、AI 组织的验收用例与评分，一律写进 xinfu，这里不写正文。
+- 发现本仓库里已有这类内容，迁到 xinfu，这里最多留一行指针。
+- 原话：「Five One Talk 相关的项目是针对该项目的内容，而不是在该项目 AI 的编排工作。AI 编排工作都是xinfu的项目在管理的」；「只要不是和 AI 相关、AI 编排相关的项目，就要明确的写着说……就不能输入 AI 编排的内容」。真本：xinfu `contexts/single-source-principle.md`「AI 编排只在 xinfu」。
+
+AI 编排见 xinfu。
